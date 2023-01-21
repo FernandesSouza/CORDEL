@@ -1,2 +1,2 @@
-# CORDEL
- 
+# ProjetoCordel
+ Aprendendo o efeito Parallax
